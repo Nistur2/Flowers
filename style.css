@@ -81,19 +81,17 @@
             position: relative;
             width: 100%;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
             margin-bottom: 40px;
         }
 
         .tv-frame {
-            position: absolute;
-            top: 22%;
-            left: 50%;
-            transform: translate(-50%, -50%);
+            position: relative;
             width: 92%;
             max-width: 640px;
             z-index: 1;
+            margin-bottom: -160px;
             animation: slideUp 0.8s ease-out 0.05s backwards;
         }
 
@@ -145,7 +143,7 @@
             position: relative;
             width: 100%;
             max-width: 500px;
-            height: 600px;
+            height: 480px;
             margin-bottom: 0;
             animation: slideUp 0.8s ease-out 0.1s backwards;
             perspective: 1000px;
@@ -341,7 +339,11 @@
 
             .bouquet-container {
                 max-width: 420px;
-                height: 520px;
+                height: 420px;
+            }
+
+            .tv-frame {
+                margin-bottom: -130px;
             }
 
             .message-card {
@@ -369,8 +371,12 @@
 
             .bouquet-container {
                 max-width: 340px;
-                height: 420px;
+                height: 340px;
                 margin-bottom: 30px;
+            }
+
+            .tv-frame {
+                margin-bottom: -100px;
             }
 
             .message-card {
