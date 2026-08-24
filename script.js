@@ -41,6 +41,36 @@
                 name: 'Pink Carnation',
                 title: 'Forever Yours',
                 message: 'No matter what challenges we face, I\'m committed to loving you, supporting you, and growing with you. You\'re my forever. Thank you for being my person. I love you so much. ❤️'
+            },
+            {
+                id: 'rose-8',
+                name: 'Pink Rose',
+                title: 'You\'re My Sunshine',
+                message: 'On my darkest days, you light up my world. Thank you for being the sunshine in my life, for your smile, your laugh, and your presence.'
+            },
+            {
+                id: 'rose-9',
+                name: 'Pink Lily',
+                title: 'Growing Together',
+                message: 'I\'m excited about our future. With you by my side, I know we can overcome anything. Let\'s keep growing and building our dreams together.'
+            },
+            {
+                id: 'rose-10',
+                name: 'Pink Carnation',
+                title: 'Your Support Means Everything',
+                message: 'Thank you for believing in me when I doubted myself. Your encouragement and support have made me stronger. You\'re my biggest cheerleader.'
+            },
+            {
+                id: 'rose-11',
+                name: 'Pink Rose',
+                title: 'Every Moment with You',
+                message: 'From the big moments to the quiet ones—every second with you is precious. I treasure our memories and can\'t wait to make more.'
+            },
+            {
+                id: 'rose-12',
+                name: 'Pink Lily',
+                title: 'You Complete Me',
+                message: 'Before you, I didn\'t know I was missing something. Now I can\'t imagine my life without you. You complete me in ways I never knew possible. ❤️'
             }
         ];
 
