@@ -9,7 +9,7 @@
             height: 100%;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
             background-image: url('https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGw1czFuZW5kbXRtbThzdDJyYmV2YzAwcHU0ZG93MnB1d3F5MTVkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lv2VhwHrt6ljhvZ6LF/giphy.gif');
-            background-size: contain;
+            background-size: 50%;
             background-position: center;
             background-attachment: fixed;
             background-repeat: no-repeat;
